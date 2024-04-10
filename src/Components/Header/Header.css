@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+    background-color: #718355;
+    color: #E9F5DB;
+   
+}
+.logo{
+    width: 80px;
+    padding: 10px;
+}
+.nav-items{
+    padding: 0px 20px;
+}
+.nav-items >ul{
+  display: flex;
+  list-style-type: none;
+  font-size: 20px;
+  
+}
+.nav-items>ul>li{
+    padding: 10px;
+    margin: 10px;
+   
+}
