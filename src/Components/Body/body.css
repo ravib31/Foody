@@ -1,18 +1,22 @@
 .search{
     padding: 10px;
     display: flex;
+    align-items: center;
     /* border: 4px blue; */
 }
 .search-bar{
     /* padding: 10px; */
     display: flex;
     /* border: 4px blue; */
+    align-items: center;
 }
 .res-container{
     display: flex;
     flex-wrap: wrap;
     /* margin: auto; */
     padding-left: 70px;
+    align-items: center;
+    justify-content: center;
 }
 .top{
     cursor: pointer;
